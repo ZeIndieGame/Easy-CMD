@@ -1,0 +1,10 @@
+c:\users\simon\source\repos\EasyCMD\EasyCMD\bin\Debug\EasyCMD.exe.config
+c:\users\simon\source\repos\EasyCMD\EasyCMD\bin\Debug\EasyCMD.exe
+c:\users\simon\source\repos\EasyCMD\EasyCMD\bin\Debug\EasyCMD.pdb
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.csprojAssemblyReference.cache
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.Form1.resources
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.Properties.Resources.resources
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.csproj.GenerateResource.cache
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.csproj.CoreCompileInputs.cache
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.exe
+c:\users\simon\source\repos\EasyCMD\EasyCMD\obj\Debug\EasyCMD.pdb
